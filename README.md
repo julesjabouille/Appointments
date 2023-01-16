@@ -1,4 +1,4 @@
-# Appointments App | NextCloud
+# Appointments App | NextCloud [FRENCH AVAILABLE]
 
 ### Notice: Support for floating timezones is being phased-out
 
